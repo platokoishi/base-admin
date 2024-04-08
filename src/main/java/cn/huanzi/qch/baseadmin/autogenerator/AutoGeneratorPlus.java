@@ -27,7 +27,7 @@ public class AutoGeneratorPlus {
      */
     private static final String URL = "jdbc:mysql://localhost:3306/base_admin?serverTimezone=GMT%2B8&characterEncoding=utf-8";
     private static final String USERNAME = "root";
-    private static final String PASSWORD = "123456";
+    private static final String PASSWORD = "admin";
     private static final String DRIVER_CLASSNAME = "com.mysql.cj.jdbc.Driver";
 
     /**
